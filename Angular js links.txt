@@ -1,0 +1,33 @@
+https://www.youtube.com/watch?v=3mIpWE7VV8A
+https://embed.plnkr.co/plunk/7ubJ3l
+
+Syntbots PO -Process Orchesrstrature \\ Components of syntbots
+
+Portal
+
+Repository - Database
+Ranorex components
+
+Ranorex spy
+
+object repository
+
+ranorex test suite
+
+Ranorex recording
+
+Absoulte and relative xpath
+
+data connectors
+
+Excel for test data
+
+ranorex repository extension : .rxrep
+
+ranorex test suite : .rxtst
+
+Simple data connectors
+
+excel connector,
+.csv connector,
+sql data connector
